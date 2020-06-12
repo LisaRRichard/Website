@@ -1,0 +1,16 @@
+body {
+  background-color: #6fd68e;
+  color: ForestGreen;
+  font-family: 'Abril Fatface', cursive;
+}
+h1 {
+  color: DarkGreen;
+  font-family:'Abril Fatface', cursive;
+  text-align: center;
+}
+header{
+  background-color: papayaWhip;
+}
+footer{
+  background-color: papayaWhip;
+}
