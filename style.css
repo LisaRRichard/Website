@@ -1,16 +1,36 @@
+/*I'm a CSS comment!*/
+*{
+  font-size: 100%
+}
 body {
   background-color: #6fd68e;
   color: ForestGreen;
   font-family: 'Abril Fatface', cursive;
+  font-size: 14px;
 }
 h1 {
-  color: DarkGreen;
+  color: papayaWhip;
   font-family:'Abril Fatface', cursive;
   text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 5;
 }
 header{
-  background-color: papayaWhip;
+  background-color: #254117;
+  color: papayaWhip;
+  font-size: 18px;
+  font-weight: bold;
 }
 footer{
-  background-color: papayaWhip;
+  background-color: #254117;
+  color: papayaWhip;
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+body header h2 {
+  text-align: center;
+  font-size: 20px;
 }
