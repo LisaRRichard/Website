@@ -68,7 +68,7 @@ h3, h4, h5, h6 {
   margin: 0 auto;
 }
 section p {
-  margin: 10 px;
+  margin: 5px;
   font-size: 35px;
   font-family: Tahoma;
   color: papayaWhip;
@@ -90,7 +90,7 @@ section {
 }
 .button {
   padding: 15px 25px;
-  font-size: 30px;
+  font-size: 35px;
   text-align: center;
   cursor: pointer;
   outline: none;
@@ -123,4 +123,13 @@ footer{
   font-size: 30px;
   text-align: center;
   border: 4px Solid grey;
+}
+.groups {
+  font-size: 35px;
+  font-family: Tahoma;
+  color: papayaWhip;
+  text-align: center;
+  line-height: 2;
+  background-color: #006633;
+  padding: 20px;
 }
